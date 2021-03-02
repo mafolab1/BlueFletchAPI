@@ -1,0 +1,45 @@
+{
+ "posts":[
+   {
+       "__v": 1,
+       "_id": "521824db139418ce60000006",
+       "postText": "This is the second post sample text",
+       "postUser": {
+           "_id": "5218243b139418ce60000003",
+           "imageUrl": "/profilepic/generic-profile.jpg",
+           "username": "test2"
+       },
+       "numUpdates": 0,
+       "comments": [
+           {
+               "_id": "521825aa139418ce60000007",
+               "commentText": "This is the comment text",
+               "commentUser": {
+                   "_id": "5218243b139418ce60000003",
+                   "imageUrl": "/profilepic/generic-profile.jpg",
+                   "username": "test2"
+               },
+               "numCommentUpdates": 0,
+               "createdDate": "2013-08-24T03:16:58.742Z"
+           }
+       ],
+       "lastUpdatedDate": "2013-08-24T03:16:58.742Z",
+       "createdDate": "2013-08-24T03:13:31.092Z"
+   },
+   {
+       "newPostForUser": true,
+       "postUser": {
+           "_id": "521823e1139418ce60000002",
+           "imageUrl": "/profilepic/generic-profile.jpg",
+           "username": "test1"
+       },
+       "postText": "This is the first post sample text",
+       "_id": "52182499139418ce60000005",
+       "__v": 0,
+       "numUpdates": 0,
+       "comments": [],
+       "lastUpdatedDate": "2013-08-24T03:12:25.992Z",
+       "createdDate": "2013-08-24T03:12:25.991Z"
+   }
+]
+}
