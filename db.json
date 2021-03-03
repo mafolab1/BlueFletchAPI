@@ -67,6 +67,19 @@
   "comments": [],
   "lastUpdatedDate": "2013-10-11T01:06:01.253Z",
   "createdDate": "2013-10-11T01:06:01.253Z"
-}
+},
+ "createComment" :
+ {
+  "_id": "5257508098e0f4ab2f000003",
+  "commentText": "I am commenting on my first post. This is fun.",
+  "commentUser": {
+    "_id": "521823e1139418ce60000002",
+    "imageUrl": "/profilepic/test1_1381452334813.png",
+    "username": "test1"
+  },
+  "numCommentUpdates": 0,
+  "createdDate": "2013-10-11T01:12:32.264Z"
+},
+
 
 }
