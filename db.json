@@ -54,6 +54,7 @@
   "createdDate": "2013-08-24T03:09:21.168Z"
 },
  "logout" : {},
+ 
  "create" : {
   "postUser": {
     "_id": "521823e1139418ce60000002",
@@ -68,8 +69,7 @@
   "lastUpdatedDate": "2013-10-11T01:06:01.253Z",
   "createdDate": "2013-10-11T01:06:01.253Z"
 },
- "createComment" :
- {
+ "createComment" : {
   "_id": "5257508098e0f4ab2f000003",
   "commentText": "I am commenting on my first post. This is fun.",
   "commentUser": {
@@ -79,7 +79,6 @@
   },
   "numCommentUpdates": 0,
   "createdDate": "2013-10-11T01:12:32.264Z"
-},
-
+}
 
 }
