@@ -6,7 +6,7 @@
        "postText": "This is the second post sample text",
        "postUser": {
            "_id": "5218243b139418ce60000003",
-           "imageUrl": "/profilepic/generic-profile.jpg",
+           "imageUrl": "https://lh3.googleusercontent.com/ogw/ADGmqu_uGNGXAbHe5obdR7uQN7rhdLIhnqFScEbvtN_cTQ=s32-c-mo",
            "username": "test2"
        },
        "numUpdates": 0,
