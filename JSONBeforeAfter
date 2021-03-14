@@ -1,0 +1,93 @@
+Before Comment Edit JSON:
+"comments": {
+      {
+        "Post_ID": "-MVdOy-ju6oQF_DniNLN",
+        "createdAt": "Sat, 13 Mar 2021 02:27:08 GMT",
+        "id": 0,
+        "text": "Test for api purposees",
+        "timestamp": -1615602428847,
+        "updatedAt": "Sat, 13 Mar 2021 02:27:08 GMT",
+        "username": "test1"
+      },
+      {
+        "Post_ID": "-MVdOy-ju6oQF_DniNLN",
+        "createdAt": "Sat, 13 Mar 2021 02:27:37 GMT",
+        "id": 1,
+        "text": "Test 2",
+        "timestamp": -1615602457148,
+        "updatedAt": "Sat, 13 Mar 2021 02:27:37 GMT",
+        "username": "test1"
+      },
+      {
+        "Post_ID": "-MVdOy-ju6oQF_DniNLN",
+        "createdAt": "Sat, 13 Mar 2021 02:27:54 GMT",
+        "id": 2,
+        "text": "Test 3",
+        "timestamp": -1615602474341,
+        "updatedAt": "Sat, 13 Mar 2021 02:27:54 GMT",
+        "username": "test1"
+      },
+      {
+        "Post_ID": "-MVdOy-ju6oQF_DniNLN",
+        "createdAt": "Sat, 13 Mar 2021 02:30:11 GMT",
+        "id": 3,
+        "text": "Test 4",
+        "timestamp": -1615602611748,
+        "updatedAt": "Sat, 13 Mar 2021 02:30:11 GMT",
+        "username": "test1"
+      },
+       {
+        "Post_ID": "-MVdOy-ju6oQF_DniNLN",
+        "text": "Edit Test 4",
+        "timestamp": -1615602624505,
+        "updatedAt": "Sat, 13 Mar 2021 02:30:24 GMT"
+      }
+    }
+
+
+After Comment Edit JSON: 
+
+"comments": {
+      "0": {
+        "Post_ID": "-MVdOy-ju6oQF_DniNLN",
+        "createdAt": "Sat, 13 Mar 2021 02:27:08 GMT",
+        "id": 0,
+        "text": "Test for api purposees",
+        "timestamp": -1615602428847,
+        "updatedAt": "Sat, 13 Mar 2021 02:27:08 GMT",
+        "username": "test1"
+      },
+      "1": {
+        "Post_ID": "-MVdOy-ju6oQF_DniNLN",
+        "createdAt": "Sat, 13 Mar 2021 02:27:37 GMT",
+        "id": 1,
+        "text": "Test 2",
+        "timestamp": -1615602457148,
+        "updatedAt": "Sat, 13 Mar 2021 02:27:37 GMT",
+        "username": "test1"
+      },
+      "2": {
+        "Post_ID": "-MVdOy-ju6oQF_DniNLN",
+        "createdAt": "Sat, 13 Mar 2021 02:27:54 GMT",
+        "id": 2,
+        "text": "Test 3",
+        "timestamp": -1615602474341,
+        "updatedAt": "Sat, 13 Mar 2021 02:27:54 GMT",
+        "username": "test1"
+      },
+      "3": {
+        "Post_ID": "-MVdOy-ju6oQF_DniNLN",
+        "createdAt": "Sat, 13 Mar 2021 02:30:11 GMT",
+        "id": 3,
+        "text": "Test 4",
+        "timestamp": -1615602611748,
+        "updatedAt": "Sat, 13 Mar 2021 02:30:11 GMT",
+        "username": "test1"
+      },
+      "undefined": {
+        "Post_ID": "-MVdOy-ju6oQF_DniNLN",
+        "text": "Edit Test 4",
+        "timestamp": -1615602624505,
+        "updatedAt": "Sat, 13 Mar 2021 02:30:24 GMT"
+      }
+    }
