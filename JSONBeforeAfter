@@ -1,5 +1,5 @@
 Before Comment Edit JSON:
-"comments": {
+"comments": [
       {
         "Post_ID": "-MVdOy-ju6oQF_DniNLN",
         "createdAt": "Sat, 13 Mar 2021 02:27:08 GMT",
@@ -42,7 +42,7 @@ Before Comment Edit JSON:
         "timestamp": -1615602624505,
         "updatedAt": "Sat, 13 Mar 2021 02:30:24 GMT"
       }
-    }
+    ]
 
 
 After Comment Edit JSON: 
